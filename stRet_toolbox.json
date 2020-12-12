@@ -1,0 +1,46 @@
+[
+    {
+        "name": "stRet_toolbox",
+        "type": "git",
+        "url": "https://github.com/KimInsub/stRet_toolbox.git"
+    },
+    {
+       	"name": "stRet",
+        "type": "git",
+        "url": "https://github.com/KimInsub/stRet"
+    },
+    {	
+        "name": "PRFmodel",
+        "type": "git",
+        "url": "https://github.com/KimInsub/PRFmodel"
+    },
+    {
+	   "name": "JSONio",
+	   "type": "git",
+       "update": "never",
+	   "url": "https://github.com/gllmflndn/JSONio.git"
+    },
+    {
+        "name": "vistasoft",
+        "type": "git",
+        "url": "https://github.com/KimInsub/vistasoft"
+    },
+    {
+        "name": "Psychtoolbox",
+        "type": "git",
+        "update": "never",
+        "url": "https://github.com/Psychtoolbox-3/Psychtoolbox-3"
+    },
+    {
+        "name": "GLMdenoise",
+        "type": "git",
+        "update": "never",
+        "url": "https://github.com/kendrickkay/GLMdenoise.git"
+    },
+  {
+        "name": "Sherlock_data_store",
+        "type": "local",
+        "url": "/Users/insubkim/sherlock_home/project/stPRF_simulation"
+    }
+]
+
