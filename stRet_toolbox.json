@@ -7,8 +7,8 @@
     {
        	"name": "stRet",
         "type": "git",
-        "url": "https://github.com/KimInsub/stRet",
-        "update": "never"
+	"update":"never",
+        "url": "https://github.com/KimInsub/stRet"
     },
     {	
         "name": "PRFmodel",
@@ -16,10 +16,10 @@
         "url": "https://github.com/KimInsub/PRFmodel"
     },
     {
-	   "name": "JSONio",
-	   "type": "git",
-       "update": "never",
-	   "url": "https://github.com/gllmflndn/JSONio.git"
+	"name": "JSONio",
+	"type": "git",
+	"update": "never",
+	"url": "https://github.com/gllmflndn/JSONio.git"
     },
     {
         "name": "vistasoft",
